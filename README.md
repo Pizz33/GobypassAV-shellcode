@@ -21,3 +21,26 @@
 ![image](https://user-images.githubusercontent.com/88339946/232708290-e8f5c3cb-52cb-45bf-a7ea-43615bae0e9d.png)
 
 ![image](https://user-images.githubusercontent.com/88339946/232708368-37c6bd82-8a56-4b15-a298-4576a95fd5ee.png)
+
+项目仅供进行学习研究，切勿用于任何非法未授权的活动，如个人使用违反安全相关法律，后果与本人无关
+
+站在巨人的肩膀上学习，参考借鉴以下师傅的项目，特别感谢
+https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualalloc
+
+https://github.com/7BitsTeam/EDR-Bypass-demo 
+
+https://www.yuque.com/aufeng/aufeng_good/aq09p0#yNorm
+
+https://mp.weixin.qq.com/s/xiFbSE6goKFqLAlyACi83A
+
+https://github.com/timwhitez/Doge-Loader
+
+https://github.com/TideSec/GoBypassAV
+
+https://www.crisprx.top/archives/515
+
+https://github.com/Ne0nd0g/go-shellcode
+
+https://github.com/piiperxyz/AniYa
+
+https://github.com/safe6Sec/GolangBypassAV
