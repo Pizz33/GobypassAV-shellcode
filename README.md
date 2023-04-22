@@ -1,5 +1,5 @@
 # GobypassAV-shellcode
-2023/04/18 使用go写的shellcode免杀加载器，免杀主流杀软，bypass火绒、360、核晶、def等
+2023/04/18 cobaltstrike免杀 使用go写的shellcode免杀加载器，免杀主流杀软，bypass火绒、360、核晶、def等
 
 食用方法：
 
