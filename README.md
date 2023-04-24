@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/88339946/232708666-a8e28b1b-2502-4bbc-91a9-d88e5ff44e9d.png)
 
-2、`go run encode`对shellcode进行加密
+2、`go run encode.go` 对shellcode进行加密
 
 3、加密后的结果填到代码里编译运行 `go build -ldflags="-s -w"`
 
