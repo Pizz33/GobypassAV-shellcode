@@ -1,6 +1,8 @@
 # GobypassAV-shellcode
 2023/04/18 cobaltstrike免杀 使用go写的shellcode免杀加载器，免杀主流杀软，bypass火绒、360、360核晶、360杀毒、def等
 
+详细教程请移步博客：https://pizz33.github.io/posts/4ac17cb886a9/
+
 食用方法：
 
 1、生成c的payload
@@ -9,7 +11,7 @@
 
 2、`go run encode.go` 对shellcode进行加密
 
-3、加密后的结果填到代码里编译运行 `go build -ldflags="-s -w"`
+3、加密后的结果填到代码里编译运行 `go build -ldflags="-w" decode.go`
 
 ![image](https://user-images.githubusercontent.com/88339946/232708833-9709b6c6-59b3-455a-aaa5-e4a92e549c3b.png)
 
