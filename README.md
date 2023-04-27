@@ -25,7 +25,6 @@ cobaltstrike免杀 使用go写的shellcode免杀加载器，实测过 bypass火�
 
 ![image](https://user-images.githubusercontent.com/88339946/234928250-bcf2952f-c345-4241-b33c-73e053b54dd5.png)
 
-
 ![image](https://user-images.githubusercontent.com/88339946/233016193-23d034da-951a-400a-9720-fffa2b21ba81.png)
 
 ![image](https://user-images.githubusercontent.com/88339946/234165227-7a26383c-6f8f-484a-8bfb-6d35d2880e59.png)
@@ -33,8 +32,6 @@ cobaltstrike免杀 使用go写的shellcode免杀加载器，实测过 bypass火�
 ![image](https://user-images.githubusercontent.com/88339946/234788023-2a9fd53a-2c02-4467-9ef1-6c654106680d.png)
 
 ![image](https://user-images.githubusercontent.com/88339946/232708290-e8f5c3cb-52cb-45bf-a7ea-43615bae0e9d.png)
-
-![image](https://user-images.githubusercontent.com/88339946/232708368-37c6bd82-8a56-4b15-a298-4576a95fd5ee.png)
 
 项目仅供进行学习研究，切勿用于任何非法未授权的活动，如个人使用违反安全相关法律，后果与本人无关
 
