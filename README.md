@@ -23,6 +23,9 @@ cobaltstrike免杀 使用go写的shellcode免杀加载器，实测过 bypass火�
 
 ![image](https://user-images.githubusercontent.com/88339946/232709153-3e45970a-a0ae-409b-bfdc-f9db0209d0ce.png)
 
+![image](https://user-images.githubusercontent.com/88339946/234928250-bcf2952f-c345-4241-b33c-73e053b54dd5.png)
+
+
 ![image](https://user-images.githubusercontent.com/88339946/233016193-23d034da-951a-400a-9720-fffa2b21ba81.png)
 
 ![image](https://user-images.githubusercontent.com/88339946/234165227-7a26383c-6f8f-484a-8bfb-6d35d2880e59.png)
