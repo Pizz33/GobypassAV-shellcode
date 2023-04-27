@@ -1,8 +1,8 @@
 # GobypassAV-shellcode
 
-2023/04/26 增加了参数加载
+cobaltstrike免杀 使用go写的shellcode免杀加载器，免杀主流杀软，bypass火绒、360、360核晶、360杀毒、def等
 
-2023/04/18 cobaltstrike免杀 使用go写的shellcode免杀加载器，免杀主流杀软，bypass火绒、360、360核晶、360杀毒、def等
+2023/4/27 更新了加密方式，提升免杀性
 
 详细教程请移步博客：https://pizz33.github.io/posts/4ac17cb886a9/
 
