@@ -21,7 +21,7 @@ cobaltstrike免杀，实测过 bypass火绒、360、360核晶、360杀毒、def�
 
 免杀效果：
 
-![image](https://user-images.githubusercontent.com/88339946/234936747-9741ccaa-f4ef-4ee5-8023-d3a320c3c885.png)
+![image](https://user-images.githubusercontent.com/88339946/234937098-ba1f7e9b-0c8e-4455-a84b-46a6ae53159f.png)
 
 ![image](https://user-images.githubusercontent.com/88339946/234936629-b80e9b97-8a85-485e-9097-bbf4091a4d39.png)
 
