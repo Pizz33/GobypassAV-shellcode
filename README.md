@@ -1,6 +1,7 @@
 # GobypassAV-shellcode
 
-cobaltstrike免杀 使用go写的shellcode免杀加载器，免杀主流杀软，bypass火绒、360、360核晶、360杀毒、def等
+cobaltstrike免杀 使用go写的shellcode免杀加载器，免杀主流杀软
+效果测试过 bypass火绒、360、360核晶、360杀毒、def、金山毒霸等
 
 2023/4/27 更新了加密方式，提升免杀性
 
@@ -27,6 +28,7 @@ cobaltstrike免杀 使用go写的shellcode免杀加载器，免杀主流杀软�
 
 ![image](https://user-images.githubusercontent.com/88339946/234165227-7a26383c-6f8f-484a-8bfb-6d35d2880e59.png)
 
+![image](https://user-images.githubusercontent.com/88339946/234788023-2a9fd53a-2c02-4467-9ef1-6c654106680d.png)
 
 ![image](https://user-images.githubusercontent.com/88339946/232708290-e8f5c3cb-52cb-45bf-a7ea-43615bae0e9d.png)
 
