@@ -2,6 +2,8 @@
 
 cobaltstrike免杀，实测过 bypass火绒、360、360核晶、360杀毒、def、金山毒霸等主流杀软
 
+2023/4/27 更新了远程加载方式，shellcode存云端免杀性更好 🤪
+
 2023/4/27 更新了加密方式，提升免杀性
 
 详细教程请移步博客：https://pizz33.github.io/posts/4ac17cb886a9/
