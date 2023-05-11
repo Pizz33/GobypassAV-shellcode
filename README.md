@@ -14,9 +14,11 @@ cobaltstrike免杀，实测过 bypass火绒、360、360核晶、360杀毒、def�
 
 ![image](https://user-images.githubusercontent.com/88339946/232708666-a8e28b1b-2502-4bbc-91a9-d88e5ff44e9d.png)
 
-2、`go run encode.go` 对shellcode进行加密
+2、`go run encode.go` or `python xor64.py` 对shellcode进行加密
 
-3、加密后的结果填到代码里编译运行 `go build -ldflags="-w" decode.go`
+3、加密后的结果填到代码里编译运行 `go build decode.go`
+
+(这里大多报错为缺少依赖，运行 `go mod init` & `go mod tidy` 拉取即可)
 
 ![image](https://user-images.githubusercontent.com/88339946/232708833-9709b6c6-59b3-455a-aaa5-e4a92e549c3b.png)
 
