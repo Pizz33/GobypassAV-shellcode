@@ -16,14 +16,13 @@ cobaltstrike免杀，实测过 bypass火绒、360、360核晶、360杀毒、def�
 
 2、`go run encode.go` or `python xor64.py` 对shellcode进行加密
 
+![image](https://user-images.githubusercontent.com/88339946/232708833-9709b6c6-59b3-455a-aaa5-e4a92e549c3b.png)
+
 3、加密后的结果填到代码里编译运行 `go build decode.go` 
 
 远程加载把加密后的字符串放到云端，把云端地址填到对应位置生成 （可放到vps上或使用oss云存储等）
 
 (这里大多报错为缺少依赖，运行 `go mod init` & `go mod tidy` 拉取即可)
-
-![image](https://user-images.githubusercontent.com/88339946/232708833-9709b6c6-59b3-455a-aaa5-e4a92e549c3b.png)
-
 
 免杀效果：
 
