@@ -42,7 +42,6 @@ cobaltstrike免杀，实测过 bypass火绒、360、360核晶、360杀毒、def�
 
 ![image](https://user-images.githubusercontent.com/88339946/234788023-2a9fd53a-2c02-4467-9ef1-6c654106680d.png)
 
-![image](https://user-images.githubusercontent.com/88339946/232708290-e8f5c3cb-52cb-45bf-a7ea-43615bae0e9d.png)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Pizz33/GobypassAV-shellcode&type=Date)](https://star-history.com/#star-history/star-history&Date)
 
