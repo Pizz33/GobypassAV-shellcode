@@ -44,9 +44,6 @@ shellcode写在文件里容易被提取特征，beacon远程加载免杀性和�
 
 ![image](https://user-images.githubusercontent.com/88339946/234788023-2a9fd53a-2c02-4467-9ef1-6c654106680d.png)
 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Pizz33/GobypassAV-shellcode&type=Date)](https://star-history.com/#star-history/star-history&Date)
-
 项目仅供进行学习研究，切勿用于任何非法未授权的活动，如个人使用违反安全相关法律，后果与本人无关
 
 站在巨人的肩膀上学习，参考借鉴以下师傅的项目，特别感谢
